@@ -23,3 +23,5 @@ This web application is developed with MySQL, PHP, Codeigniter, jQuery
 
 ![ScreenShot](https://raw.githubusercontent.com/tugbadogan/hotelmanagement/master/screenshots/7.png)
 
+
+Adding content to the Read me file
